@@ -49,6 +49,10 @@ export function Footer() {
               className="bg-black px-3 py-1.5 hover:opacity-90 transition-opacity">
               <img src="/Gambling_Commission_logo.png" alt="Gambling Commission" className="h-6 w-auto object-contain" />
             </a>
+            <a href="https://www.gamblingtherapy.org/" target="_blank" rel="noopener noreferrer"
+              className="bg-black px-3 py-1.5 hover:opacity-90 transition-opacity">
+              <img src="/gordon.png" alt="Gordon" className="h-6 w-auto object-contain" />
+            </a>
             <div className="text-destructive text-xs border border-destructive/60 px-3 py-1.5 font-heading font-700 uppercase tracking-wide">
               18+
             </div>

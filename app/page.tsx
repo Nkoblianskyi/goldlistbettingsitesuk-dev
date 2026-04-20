@@ -12,8 +12,8 @@ export default function HomePage() {
       <Header />
       <Hero />
       <RatingSection />
-      <OurChoiceSection />
       <InfoSections />
+      <OurChoiceSection />
     </div>
   )
 }

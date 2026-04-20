@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" })
 const barlow = Barlow_Condensed({ subsets: ["latin"], weight: ["500", "600", "700"], variable: "--font-barlow" })
 
 export const metadata: Metadata = {
-  title: "GoldList Betting Sites UK – Best UK Betting Sites 2025",
+  title: "GoldList Betting Sites UK – Best UK Betting Sites 2026",
   description:
     "Independent ranking of the best licensed betting sites in the United Kingdom. Expert reviews, welcome offers, and unbiased ratings for UK bettors.",
   robots: "index, follow",

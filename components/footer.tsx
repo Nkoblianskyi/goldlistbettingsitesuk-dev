@@ -58,7 +58,7 @@ export function Footer() {
         </div>
 
         <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 text-[10px] text-secondary-foreground/30 uppercase tracking-widest">
-          <span>&copy; 2025 goldlistbettingsitesuk.com</span>
+          <span>&copy; 2026 goldlistbettingsitesuk.com</span>
           <span>Independent Betting Sites Comparison</span>
         </div>
       </div>

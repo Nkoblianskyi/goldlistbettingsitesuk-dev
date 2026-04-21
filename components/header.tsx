@@ -11,7 +11,7 @@ export function Header() {
             </div>
             <div>
               <span className="font-heading font-700 text-base md:text-lg tracking-wider uppercase text-foreground">
-                GoldList<span className="text-primary">UK</span>Best Betting Sites
+                Gold List Best Betting Sites <span className="text-primary">UK</span>
               </span>
             </div>
           </Link>

@@ -40,11 +40,11 @@ export function TopSitesModal() {
 
         {/* Content */}
         <div className="p-4 space-y-3">
-          <div className="border border-border p-3 flex items-center justify-center bg-black">
+          <div className="border border-border p-3 flex items-center justify-center ">
             <img
               src={topSite.logo || "/placeholder.svg"}
               alt="Top operator"
-              className="h-10 w-auto object-contain"
+              className="h-14 w-auto object-contain"
             />
           </div>
 

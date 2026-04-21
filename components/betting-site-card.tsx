@@ -60,18 +60,18 @@ export function BettingSiteCard({ site, rank }: BettingSiteCardProps) {
         </div>
 
         {/* Logo */}
-        <div className="flex-shrink-0 w-48 h-24 flex items-center justify-center px-3 overflow-hidden">
+        <div className="flex-shrink-0 w-48 h-28 flex items-center justify-center px-3 overflow-hidden">
           <img
             src={site.logo || "/placeholder.svg"}
             alt={`Operator ${rank}`}
-            className="max-h-24 w-full object-contain"
+            className="max-h-32 w-full object-contain"
           />
         </div>
 
         {/* Offer */}
         <div className="flex-1 min-w-0 text-center">
-          <div className="text-[10px] uppercase tracking-widest text-muted-foreground mb-0.5">Welcome Offer</div>
-          <p className="text-foreground font-semibold text-sm leading-snug">{site.bonus}</p>
+          <div className="text-[12px] uppercase tracking-widest text-muted-foreground mb-0.5">Welcome Offer</div>
+          <p className="text-foreground font-semibold text-lg leading-snug">{site.bonus}</p>
         </div>
 
         {/* Rating */}

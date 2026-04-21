@@ -70,8 +70,8 @@ export function BettingSiteCard({ site, rank }: BettingSiteCardProps) {
 
         {/* Offer */}
         <div className="flex-1 min-w-0 text-center">
-          <div className="text-[12px] uppercase tracking-widest text-muted-foreground mb-0.5">Welcome Offer</div>
-          <p className="text-foreground font-semibold text-lg leading-snug">{site.bonus}</p>
+          <div className="text-base uppercase tracking-widest text-muted-foreground mb-0.5">Welcome Offer</div>
+          <p className="text-foreground font-semibold text-xl leading-snug">{site.bonus}</p>
         </div>
 
         {/* Rating */}

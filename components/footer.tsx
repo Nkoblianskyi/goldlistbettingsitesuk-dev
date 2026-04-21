@@ -42,15 +42,15 @@ export function Footer() {
               <img src="/gamecare.svg" alt="GamCare" className="h-6 w-auto object-contain" />
             </a>
             <a href="https://www.gamstop.co.uk/" target="_blank" rel="noopener noreferrer"
-              className="bg-black px-3 py-1.5 hover:opacity-90 transition-opacity">
+              className=" px-3 py-1.5 hover:opacity-90 transition-opacity">
               <img src="/gamstop.svg" alt="GamStop" className="h-6 w-auto object-contain" />
             </a>
             <a href="https://www.gamblingcommission.gov.uk/" target="_blank" rel="noopener noreferrer"
-              className="bg-black px-3 py-1.5 hover:opacity-90 transition-opacity">
+              className=" px-3 py-1.5 hover:opacity-90 transition-opacity">
               <img src="/Gambling_Commission_logo.png" alt="Gambling Commission" className="h-6 w-auto object-contain" />
             </a>
             <a href="https://www.gamblingtherapy.org/" target="_blank" rel="noopener noreferrer"
-              className="bg-black px-3 py-1.5 hover:opacity-90 transition-opacity">
+              className=" px-3 py-1.5 hover:opacity-90 transition-opacity">
               <img src="/gordon.png" alt="Gordon" className="h-6 w-auto object-contain" />
             </a>
             <div className="text-destructive text-xs border border-destructive/60 px-3 py-1.5 font-heading font-700 uppercase tracking-wide">

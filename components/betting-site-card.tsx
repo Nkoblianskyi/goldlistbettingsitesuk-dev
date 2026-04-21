@@ -65,7 +65,6 @@ export function BettingSiteCard({ site, rank }: BettingSiteCardProps) {
             src={site.logo || "/placeholder.svg"}
             alt={`Operator ${rank}`}
             className="max-h-24 w-full object-contain"
-            style={{ background: "black" }}
           />
         </div>
 
